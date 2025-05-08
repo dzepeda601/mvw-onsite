@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-designs/:/",
-      "/content/citisignal-designs/configuration:/.helix/config.json",
-      "/content/citisignal-designs/metadata:/metadata.json",
-      "/content/citisignal-designs/configs:/configs.json",
-      "/content/citisignal-designs/configs-stage:/configs-stage.json",
-      "/content/citisignal-designs/configs-dev:/configs-dev.json",
-      "/content/citisignal-designs/redirects:/redirects.json",
-      "/content/citisignal-designs/placeholders:/placeholders.json",
-      "/content/citisignal-designs/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-designs/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/mvw-onsite/:/",
+      "/content/mvw-onsite/configuration:/.helix/config.json",
+      "/content/mvw-onsite/metadata:/metadata.json",
+      "/content/mvw-onsite/configs:/configs.json",
+      "/content/mvw-onsite/configs-stage:/configs-stage.json",
+      "/content/mvw-onsite/configs-dev:/configs-dev.json",
+      "/content/mvw-onsite/redirects:/redirects.json",
+      "/content/mvw-onsite/placeholders:/placeholders.json",
+      "/content/mvw-onsite/products/recommended-products:/products/recommended-products.json",
+      "/content/mvw-onsite/enrichment/enrichment:/enrichment/enrichment.json",
       "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-designs",
+      "/content/mvw-onsite",
       "/content/dam/citisignal/images/products/"
     ]
 }
